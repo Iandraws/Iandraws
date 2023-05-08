@@ -7,20 +7,14 @@
 - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
 
 <br/>
-
-
 <table>
     <tr>
-      
         <th>My Website</th>
-       
     </tr>
     <tr>
-      
         <td>
             <a href="https://ibrahim-andraws.netlify.app">🌐</a>
         </td>
-       
     </tr>
 </table>
 
