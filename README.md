@@ -1,11 +1,9 @@
-# Hello there 👋, I'm Colin But
+# Hello there 👋, I'm Ibrahim Andraws
 
-### Software/DevOps/Cloud Engineer
+### Software/Frontend devloper
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
+- 🔭 I’m currently searching for intern  
+- 🌱 I’m currently learning:Angular matirial ui  Type script
 - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
 
 <br/>
@@ -13,20 +11,16 @@
 
 <table>
     <tr>
-        <th>My Blog</th>
+      
         <th>My Website</th>
-        <th>My CV</th>
+       
     </tr>
     <tr>
+      
         <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://ibrahim-andraws.netlify.app">🌐</a>
         </td>
-        <td>
-            <a href="https://colinbut.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
-        </td>
+       
     </tr>
 </table>
 
@@ -34,38 +28,18 @@
 
 ### Contact me:
 
-<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/colinbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="abrahamxman2@gmail.com" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/abraham-andraous-703251211/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
 <table>
     <tr>
         <td>Automation Tooling</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
-        </td>
+      
     </tr>
     <tr>
-        <td>Cloud Engineering</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a> -->
-        </td>
+       
     </tr>
     <tr>
         <td>CI/CD</td>
@@ -184,26 +158,7 @@
 
 <br />
 
-### My GitHub Stats
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
 
 
 
