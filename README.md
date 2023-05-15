@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently searching for intern  
 - 🌱 I’m currently learning:Angular matirial ui  Type script
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+
 
 <br/>
 <table>
