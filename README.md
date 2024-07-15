@@ -2,7 +2,7 @@
 
 ### Software/Frontend devloper
 
-- 🔭 I’m currently searching for intern  
+- 🔭 I’m currently searching for job as Devoloper
 - 🌱 I’m currently learning:Angular matirial ui  Type script
 
 
