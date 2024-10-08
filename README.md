@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Ibrahim Andraws
 
-### Software/Frontend devloper
+### Software/Fullstack devloper
 
 - 🔭 I’m currently searching for job as Devoloper
 
