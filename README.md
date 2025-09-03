@@ -54,7 +54,7 @@ Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / 
 | **Weather App** | Simple weather app with React and SCSS. | React, SCSS | [🔗 Live Demo](https://weather996-app996.netlify.app) | [💻 GitHub](https://github.com/Iandraws/WeatherAPP) |
 | **Calorie Calculator** | Fitness-focused calorie tracker app. | Angular, Bootstrap | [🔗 Live Demo](https://calc-calorie11.netlify.app) | [💻 GitHub](https://github.com/Iandraws/CaloreCalc) |
 | **Mindchase Demo Website** | Landing page for an educational platform. | React, Gatsby, TailwindCSS | [🔗 Live Demo](https://digital-campus.netlify.app) | [💻 GitHub](https://github.com/mindchase) |
-| **Fotogramm Landing Page** | A modern landing page for a photography app. | React, TailwindCSS  [🔗 Live Demo](https://fotogram.technology/)| [💻 GitHub](https://github.com/Iandraws/fotogramm-landing) |
+| **Fotogram Landing Page** | A modern landing page for a photography app. | React, TailwindCSS | [🔗 Live Demo](https://fotogram.technology) | [💻 GitHub](https://github.com/Iandraws/fotogramm-landing) |
 
 ---
 
