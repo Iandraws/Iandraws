@@ -1,7 +1,7 @@
 
 # 👋 Hello there, I'm **Ibrahim Andraws**  
 
-### 💻 Full-Stack Software Developer | React | Angular | Spring Boot | Node.js  
+### 💻 Full-Stack Software Developer | React | Angular | Spring Boot | Node.js | Python | FastAPI  
 
 🚀 Passionate about crafting clean, scalable, and high-performance web applications.  
 Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / Backend Developer**.  
@@ -27,6 +27,7 @@ Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / 
 
 ### **Backend**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -38,6 +39,7 @@ Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / 
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-00C7B7?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -49,6 +51,7 @@ Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / 
 
 | Project | Description | Tech Stack | Demo | Code |
 |--------|------------|------------|------|------|
+| **Buildlinx Baukasten** | Webanwendung zur Verwaltung und Auswahl von Pumpenkomponenten. Ingenieure können Komponenten filtern, vergleichen, speichern und als PDF exportieren. | React, Redux, Apollo, GraphQL, Material-UI, jsPDF, Strapi | 🔗 *Live Demo* | [💻 GitHub](https://github.com/Iandraws/Buildlinx-Baukasten) |
 | **Inventory Management App** | A full-stack inventory management system with real-time pagination, filtering & reporting. | React, Spring Boot, PostgreSQL, Docker | [🔗 Live Demo](https://inventory.codebyibrahim.com/inventory) | [💻 GitHub](https://github.com/Iandraws/inventory-management) |
 | **Filmmo App** | Movie search, filtering, and rating app built with Angular. | Angular, TypeScript, API | [🔗 Live Demo](https://filmmo.netlify.app) | [💻 GitHub](https://github.com/Iandraws/my-Filmo-app) |
 | **Weather App** | Simple weather app with React and SCSS. | React, SCSS | [🔗 Live Demo](https://weather996-app996.netlify.app) | [💻 GitHub](https://github.com/Iandraws/WeatherAPP) |
