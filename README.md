@@ -1,15 +1,14 @@
-
 # 👋 Hello there, I'm **Ibrahim Andraws**  
 
-### 💻 Full-Stack Software Developer | React | Angular | Spring Boot | Node.js | Python | FastAPI  
+### 💻 Full-Stack Software Developer | React | Angular | Spring Boot | Node.js | FastAPI  
 
-🚀 Passionate about crafting clean, scalable, and high-performance web applications.  
+🚀 Passionate about building clean, scalable, and high-performance web applications.  
 Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / Backend Developer**.  
 
 ---
 
 ## 🌐 **Portfolio**
-📌 Check out my personal portfolio website → [**ibrahim-andraws.netlify.app**](https://ibrahim-andraws.netlify.app)  
+📌 Check out my personal portfolio → [**ibrahim-andraws.netlify.app**](https://ibrahim-andraws.netlify.app)
 
 ---
 
@@ -27,9 +26,10 @@ Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / 
 
 ### **Backend**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Databases**
@@ -51,11 +51,12 @@ Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / 
 
 | Project | Description | Tech Stack | Demo | Code |
 |--------|------------|------------|------|------|
-| **Buildlinx Baukasten** | Webanwendung zur Verwaltung und Auswahl von Pumpenkomponenten. Ingenieure können Komponenten filtern, vergleichen, speichern und als PDF exportieren. | React, Redux, Apollo, GraphQL, Material-UI, jsPDF, Strapi | 🔗 *Live Demo* | [💻 GitHub](https://github.com/Iandraws/Buildlinx-Baukasten) |
+| **Buildlinx Baukasten** | A web app for managing and selecting pump components. Engineers can filter, compare, save, and export selections as PDFs. | React, Redux, Apollo, GraphQL, Material-UI, jsPDF, Strapi | 🔗 *Live Demo* | [💻 GitHub](https://github.com/Iandraws/Buildlinx-Baukasten) |
 | **Inventory Management App** | A full-stack inventory management system with real-time pagination, filtering & reporting. | React, Spring Boot, PostgreSQL, Docker | [🔗 Live Demo](https://inventory.codebyibrahim.com/inventory) | [💻 GitHub](https://github.com/Iandraws/inventory-management) |
+| **Content Cleaner App** | A full-stack app that removes invisible Unicode characters, AI watermarks, and unwanted formatting from text. Includes a REST API + React-based GUI. | React, Node.js, Express, REST API, CSS | 🔗 *Live Demo* | [💻 GitHub](https://github.com/Iandraws/content-cleaner) |
 | **Filmmo App** | Movie search, filtering, and rating app built with Angular. | Angular, TypeScript, API | [🔗 Live Demo](https://filmmo.netlify.app) | [💻 GitHub](https://github.com/Iandraws/my-Filmo-app) |
-| **Weather App** | Simple weather app with React and SCSS. | React, SCSS | [🔗 Live Demo](https://weather996-app996.netlify.app) | [💻 GitHub](https://github.com/Iandraws/WeatherAPP) |
-| **Calorie Calculator** | Fitness-focused calorie tracker app. | Angular, Bootstrap | [🔗 Live Demo](https://calc-calorie11.netlify.app) | [💻 GitHub](https://github.com/Iandraws/CaloreCalc) |
+| **Weather App** | A simple weather app built with React and SCSS. | React, SCSS | [🔗 Live Demo](https://weather996-app996.netlify.app) | [💻 GitHub](https://github.com/Iandraws/WeatherAPP) |
+| **Calorie Calculator** | A fitness-focused calorie tracking app. | Angular, Bootstrap | [🔗 Live Demo](https://calc-calorie11.netlify.app) | [💻 GitHub](https://github.com/Iandraws/CaloreCalc) |
 | **Mindchase Demo Website** | Landing page for an educational platform. | React, Gatsby, TailwindCSS | [🔗 Live Demo](https://digital-campus.netlify.app) | [💻 GitHub](https://github.com/mindchase) |
 | **Fotogram Landing Page** | A modern landing page for a photography app. | React, TailwindCSS | [🔗 Live Demo](https://fotogram.technology) | [💻 GitHub](https://github.com/Iandraws/fotogramm-landing) |
 
