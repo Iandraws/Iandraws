@@ -52,7 +52,7 @@ Currently looking for **exciting opportunities** as a **Full-Stack / Frontend / 
 | Project | Description | Tech Stack | Demo | Code |
 |--------|------------|------------|------|------|
 | **Buildlinx Baukasten** | A web app for managing and selecting pump components. Engineers can filter, compare, save, and export selections as PDFs. | React, Redux, Apollo, GraphQL, Material-UI, jsPDF, Strapi | 🔗 *Live Demo* | [💻 GitHub](https://github.com/Iandraws/Buildlinx-Baukasten) |
-| **Inventory Management App** | A full-stack inventory management system with real-time pagination, filtering & reporting. | React, Spring Boot, PostgreSQL, Docker | [🔗 Live Demo](https://inventory.codebyibrahim.com/inventory) | [💻 GitHub](https://github.com/Iandraws/inventory-management) |
+| **Inventory Management App** | A full-stack inventory management system with real-time pagination, filtering & reporting. | React, Spring Boot, PostgreSQL, Docker | 🔗 *Live Demo* | [💻 GitHub](https://github.com/Iandraws/inventory-management) |
 | **Content Cleaner App** | A full-stack app that removes invisible Unicode characters, AI watermarks, and unwanted formatting from text. Includes a REST API + React-based GUI. | React, Node.js, Express, REST API, CSS | 🔗 *Live Demo* | [💻 GitHub](https://github.com/Iandraws/content-cleaner) |
 | **Filmmo App** | Movie search, filtering, and rating app built with Angular. | Angular, TypeScript, API | [🔗 Live Demo](https://filmmo.netlify.app) | [💻 GitHub](https://github.com/Iandraws/my-Filmo-app) |
 | **Weather App** | A simple weather app built with React and SCSS. | React, SCSS | [🔗 Live Demo](https://weather996-app996.netlify.app) | [💻 GitHub](https://github.com/Iandraws/WeatherAPP) |
